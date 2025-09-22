@@ -1,0 +1,14 @@
+C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\bin\Debug\net8.0\menu codigos.exe
+C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\bin\Debug\net8.0\menu codigos.deps.json
+C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\bin\Debug\net8.0\menu codigos.runtimeconfig.json
+C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\bin\Debug\net8.0\menu codigos.dll
+C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\bin\Debug\net8.0\menu codigos.pdb
+C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\obj\Debug\net8.0\menu codigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\obj\Debug\net8.0\menu codigos.AssemblyInfoInputs.cache
+C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\obj\Debug\net8.0\menu codigos.AssemblyInfo.cs
+C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\obj\Debug\net8.0\menu codigos.csproj.CoreCompileInputs.cache
+C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\obj\Debug\net8.0\menu codigos.dll
+C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\obj\Debug\net8.0\refint\menu codigos.dll
+C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\obj\Debug\net8.0\menu codigos.pdb
+C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\obj\Debug\net8.0\menu codigos.genruntimeconfig.cache
+C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\obj\Debug\net8.0\ref\menu codigos.dll

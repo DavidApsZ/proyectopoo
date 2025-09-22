@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB9CD10-310E-4D15-B887-F8785E91BB6F}|Program\\Program.csproj|c:\\users\\sique\\documents\\proyecto poo septiembre\\program\\program\\edad mayor o menor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB9CD10-310E-4D15-B887-F8785E91BB6F}|Program\\Program.csproj|solutionrelative:program\\edad mayor o menor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB9CD10-310E-4D15-B887-F8785E91BB6F}|Program\\Program.csproj|c:\\users\\sique\\documents\\proyecto poo septiembre\\program\\program\\edad generacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB9CD10-310E-4D15-B887-F8785E91BB6F}|Program\\Program.csproj|solutionrelative:program\\edad generacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB9CD10-310E-4D15-B887-F8785E91BB6F}|Program\\Program.csproj|c:\\users\\sique\\documents\\proyecto poo septiembre\\program\\program\\numero primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB9CD10-310E-4D15-B887-F8785E91BB6F}|Program\\Program.csproj|solutionrelative:program\\numero primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB9CD10-310E-4D15-B887-F8785E91BB6F}|Program\\Program.csproj|c:\\users\\sique\\documents\\proyecto poo septiembre\\program\\program\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB9CD10-310E-4D15-B887-F8785E91BB6F}|Program\\Program.csproj|solutionrelative:program\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edad mayor o menor.cs",
+              "DocumentMoniker": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\Program\\Program\\Edad mayor o menor.cs",
+              "RelativeDocumentMoniker": "Program\\Edad mayor o menor.cs",
+              "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\Program\\Program\\Edad mayor o menor.cs",
+              "RelativeToolTip": "Program\\Edad mayor o menor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:46:08.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edad generacion.cs",
+              "DocumentMoniker": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\Program\\Program\\Edad generacion.cs",
+              "RelativeDocumentMoniker": "Program\\Edad generacion.cs",
+              "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\Program\\Program\\Edad generacion.cs",
+              "RelativeToolTip": "Program\\Edad generacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:45:38.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\Program\\Program\\Factorial.cs",
+              "RelativeDocumentMoniker": "Program\\Factorial.cs",
+              "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\Program\\Program\\Factorial.cs",
+              "RelativeToolTip": "Program\\Factorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:44:59.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Numero primo.cs",
+              "DocumentMoniker": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\Program\\Program\\Numero primo.cs",
+              "RelativeDocumentMoniker": "Program\\Numero primo.cs",
+              "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\Program\\Program\\Numero primo.cs",
+              "RelativeToolTip": "Program\\Numero primo.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:42:34.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

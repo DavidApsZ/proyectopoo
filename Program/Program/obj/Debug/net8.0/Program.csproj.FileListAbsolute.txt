@@ -1,0 +1,14 @@
+C:\Users\sique\Documents\Proyecto POO Septiembre\Program\Program\bin\Debug\net8.0\Program.exe
+C:\Users\sique\Documents\Proyecto POO Septiembre\Program\Program\bin\Debug\net8.0\Program.deps.json
+C:\Users\sique\Documents\Proyecto POO Septiembre\Program\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\sique\Documents\Proyecto POO Septiembre\Program\Program\bin\Debug\net8.0\Program.dll
+C:\Users\sique\Documents\Proyecto POO Septiembre\Program\Program\bin\Debug\net8.0\Program.pdb
+C:\Users\sique\Documents\Proyecto POO Septiembre\Program\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sique\Documents\Proyecto POO Septiembre\Program\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\sique\Documents\Proyecto POO Septiembre\Program\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\sique\Documents\Proyecto POO Septiembre\Program\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\sique\Documents\Proyecto POO Septiembre\Program\Program\obj\Debug\net8.0\Program.dll
+C:\Users\sique\Documents\Proyecto POO Septiembre\Program\Program\obj\Debug\net8.0\refint\Program.dll
+C:\Users\sique\Documents\Proyecto POO Septiembre\Program\Program\obj\Debug\net8.0\Program.pdb
+C:\Users\sique\Documents\Proyecto POO Septiembre\Program\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\sique\Documents\Proyecto POO Septiembre\Program\Program\obj\Debug\net8.0\ref\Program.dll
