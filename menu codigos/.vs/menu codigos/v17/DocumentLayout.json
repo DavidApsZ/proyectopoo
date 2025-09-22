@@ -23,15 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "menu codigos",
+              "Title": "menu codigos.csproj",
               "DocumentMoniker": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\menu codigos\\menu codigos\\menu codigos.csproj",
               "RelativeDocumentMoniker": "menu codigos\\menu codigos.csproj",
               "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\menu codigos\\menu codigos\\menu codigos.csproj",
               "RelativeToolTip": "menu codigos\\menu codigos.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-22T15:03:18.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T15:03:18.603Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "menu codigos\\Program.cs",
               "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\menu codigos\\menu codigos\\Program.cs",
               "RelativeToolTip": "menu codigos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T14:56:18.775Z",
               "EditorCaption": ""

@@ -12,3 +12,4 @@ C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\obj\D
 C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\obj\Debug\net8.0\menu codigos.pdb
 C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\obj\Debug\net8.0\menu codigos.genruntimeconfig.cache
 C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\obj\Debug\net8.0\ref\menu codigos.dll
+C:\Users\sique\Documents\Proyecto POO Septiembre\menu codigos\menu codigos\obj\Debug\net8.0\menu codigos.sourcelink.json
