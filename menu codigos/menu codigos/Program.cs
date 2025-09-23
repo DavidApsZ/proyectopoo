@@ -9,14 +9,15 @@ class Program
 
         do
         {
-            Console.WriteLine("========== MENÚ ==========");
-            Console.WriteLine("1. Calcular factorial");
-            Console.WriteLine("2. Verificar si un número es primo");
-            Console.WriteLine("3. Clasificar edad (bebé, niño, adolescente, adulto, adulto mayor)");
-            Console.WriteLine("4. Verificar si eres mayor o menor de edad");
-            Console.WriteLine("5. Salir");
-            Console.WriteLine("6. Crear lista e ingresar números");
-            Console.WriteLine("7. Verificar si un número es par o impar");
+            Console.WriteLine("========== MENU ==========");
+            Console.WriteLine("1. Calcula factorial");
+            Console.WriteLine("2. Verifica si el numero es primo");
+            Console.WriteLine("3. Clasifica edad por generacion");
+            Console.WriteLine("4. Verifica mayor o menor edad");
+            Console.WriteLine("5. Crear lista e ingresar números");
+            Console.WriteLine("6. Verifica numero par o impar");
+            Console.WriteLine("7. Constructor persona y edad");
+            Console.WriteLine("8. Salir");
             Console.Write("Elige una opción: ");
 
             opcion = int.Parse(Console.ReadLine());
@@ -37,13 +38,16 @@ class Program
                     MayorOMenor();
                     break;
                 case 5:
-                    Console.WriteLine("Saliendo del programa...");
-                    break;
-                case 6:
                     CrearLista();
                     break;
-                case 7:
+                case 6:
                     OpcionParImpar();
+                    break;
+                case 7:
+                    IngresarPersona();
+                    break;
+                case 8:
+                    Console.WriteLine("Saliendo del programa...");
                     break;
                 default:
                     Console.WriteLine("Opción no válida.");
@@ -52,10 +56,10 @@ class Program
 
             Console.WriteLine("\n-------------------------\n");
 
-        } while (opcion != 5);
+        } while (opcion != 8);
     }
 
-    // ================= FUNCIONES NUMÉRICAS =================
+    // ================= FUNCIONES NUMERICAS =================
 
     static int CalcularFactorial(int n)
     {
@@ -83,7 +87,7 @@ class Program
         return n % 2 == 0;
     }
 
-    // ================= OPCIONES DEL MENÚ =================
+    // ================= OPCIONES DEL MENU =================
 
     static void OpcionFactorial()
     {
@@ -156,5 +160,60 @@ class Program
         Console.Write("Ingresa un número: ");
         int n = int.Parse(Console.ReadLine());
         Console.WriteLine(EsPar(n) ? $"{n} es PAR" : $"{n} es IMPAR");
+    }
+
+    // ================= CONSTRUCTOR PERSONA =================
+
+    static void IngresarPersona()
+    {
+        Console.Write("Ingresa el nombre: ");
+        string nombre = Console.ReadLine();
+
+        Console.Write("Ingresa el apellido: ");
+        string apellido = Console.ReadLine();
+
+        Console.Write("Ingresa la fecha de nacimiento (dd/mm/yyyy): ");
+        DateTime nacimiento;
+        string formatoFecha = "dd/MM/yyyy"; // El formato que queremos
+
+        // Intentamos parsear la fecha con el formato exacto
+        while (!DateTime.TryParseExact(Console.ReadLine(), formatoFecha, null, System.Globalization.DateTimeStyles.None, out nacimiento))
+        {
+            Console.Write("Fecha inválida, por favor ingresa de nuevo (dd/mm/yyyy): ");
+        }
+
+        // Crear persona y calcular la edad
+        Persona persona = new Persona(nombre, apellido, nacimiento);
+
+        // Mostrar la edad actualizada
+        Console.WriteLine($"Edad de {persona.Nombre}: {persona.Edad} años.");
+        Console.WriteLine("Presiona cualquier tecla para continuar...");
+        Console.ReadKey();
+    }
+}
+
+// ================= CLASE PERSONA =================
+public class Persona
+{
+    public string Nombre { get; set; }
+    public string Apellido { get; set; }
+    public DateTime Nacimiento { get; set; }
+    public int Edad { get; set; }
+
+    // Constructor de la clase
+    public Persona(string nombre, string apellido, DateTime nacimiento)
+    {
+        Nombre = nombre;
+        Apellido = apellido;
+        Nacimiento = nacimiento;
+
+        // Calcula la edad
+        Edad = DateTime.Now.Year - Nacimiento.Year;
+
+        // Si no ha cumplido este año, restamos 1 a la edad
+        if (DateTime.Now.Month < Nacimiento.Month || (DateTime.Now.Month == Nacimiento.Month && DateTime.Now.Day < Nacimiento.Day))
+        {
+            Edad--;
+        }
     }
 }
