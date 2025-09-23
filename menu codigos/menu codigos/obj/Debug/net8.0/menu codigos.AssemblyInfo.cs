@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("menu codigos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+718343246936d68569617210f671f03403508d26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b604e6d08dbd4d74778da4419fed248d79e78df")]
 [assembly: System.Reflection.AssemblyProductAttribute("menu codigos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("menu codigos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

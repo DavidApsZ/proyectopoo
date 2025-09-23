@@ -17,7 +17,8 @@ class Program
             Console.WriteLine("5. Crear lista e ingresar números");
             Console.WriteLine("6. Verifica numero par o impar");
             Console.WriteLine("7. Constructor persona y edad");
-            Console.WriteLine("8. Salir");
+            Console.WriteLine("8. Añadir personas");
+            Console.WriteLine("9. Salir");
             Console.Write("Elige una opción: ");
 
             opcion = int.Parse(Console.ReadLine());
@@ -47,6 +48,9 @@ class Program
                     IngresarPersona();
                     break;
                 case 8:
+                    AñadirPersonas();
+                    break;
+                case 9:
                     Console.WriteLine("Saliendo del programa...");
                     break;
                 default:
@@ -56,7 +60,7 @@ class Program
 
             Console.WriteLine("\n-------------------------\n");
 
-        } while (opcion != 8);
+        } while (opcion != 9);
     }
 
     // ================= FUNCIONES NUMERICAS =================
@@ -147,8 +151,7 @@ class Program
         Console.WriteLine("\nResultados de la lista:\n");
         foreach (int num in lista)
         {
-            Console.WriteLine($"Número: {num}");
-            Console.WriteLine(EsPar(num) ? " - Es PAR" : " - Es IMPAR");
+            Console.WriteLine($"Número: {num} - {(EsPar(num) ? "Es PAR" : "Es IMPAR")}");
             Console.WriteLine($" - Factorial: {CalcularFactorial(num)}");
             Console.WriteLine(EsPrimo(num) ? " - Es PRIMO" : " - NO es primo");
             Console.WriteLine();
@@ -174,9 +177,8 @@ class Program
 
         Console.Write("Ingresa la fecha de nacimiento (dd/mm/yyyy): ");
         DateTime nacimiento;
-        string formatoFecha = "dd/MM/yyyy"; // El formato que queremos
+        string formatoFecha = "dd/MM/yyyy";
 
-        // Intentamos parsear la fecha con el formato exacto
         while (!DateTime.TryParseExact(Console.ReadLine(), formatoFecha, null, System.Globalization.DateTimeStyles.None, out nacimiento))
         {
             Console.Write("Fecha inválida, por favor ingresa de nuevo (dd/mm/yyyy): ");
@@ -189,6 +191,133 @@ class Program
         Console.WriteLine($"Edad de {persona.Nombre}: {persona.Edad} años.");
         Console.WriteLine("Presiona cualquier tecla para continuar...");
         Console.ReadKey();
+    }
+
+    static List<Persona> personas = new List<Persona>();
+
+    static void AñadirPersonas()
+    {
+        string respuesta;
+        do
+        {
+            Console.Write("Ingresa el nombre: ");
+            string nombre = Console.ReadLine();
+
+            Console.Write("Ingresa el apellido: ");
+            string apellido = Console.ReadLine();
+
+            Console.Write("Ingresa la fecha de nacimiento (dd/mm/yyyy): ");
+            DateTime nacimiento;
+            string formatoFecha = "dd/MM/yyyy";
+
+            while (!DateTime.TryParseExact(Console.ReadLine(), formatoFecha, null, System.Globalization.DateTimeStyles.None, out nacimiento))
+            {
+                Console.Write("Fecha inválida, por favor ingresa de nuevo (dd/mm/yyyy): ");
+            }
+
+            // Crear persona y agregarla a la lista
+            Persona persona = new Persona(nombre, apellido, nacimiento);
+            personas.Add(persona);
+
+            // Preguntar si desea agregar otra persona
+            Console.Write("¿Quieres añadir otra persona? (si/no): ");
+            respuesta = Console.ReadLine().ToLower();
+        }
+        while (respuesta == "si");
+
+        // Contar las clasificaciones por grupo
+        int contadorBebe = 0, contadorNino = 0, contadorAdolescente = 0, contadorAdulto = 0, contadorAdultoMayor = 0;
+
+        foreach (var persona in personas)
+        {
+            string clasificacion = ClasificarEdadPorGeneracion(persona.Edad);
+
+            if (clasificacion == "Bebé") contadorBebe++;
+            else if (clasificacion == "Niño") contadorNino++;
+            else if (clasificacion == "Adolescente") contadorAdolescente++;
+            else if (clasificacion == "Adulto") contadorAdulto++;
+            else if (clasificacion == "Adulto mayor") contadorAdultoMayor++;
+        }
+
+        // Mostrar resumen de clasificación
+        Console.WriteLine("\nResumen de personas por clasificación:");
+        Console.WriteLine($"Bebés: {contadorBebe}");
+        Console.WriteLine($"Niños: {contadorNino}");
+        Console.WriteLine($"Adolescentes: {contadorAdolescente}");
+        Console.WriteLine($"Adultos: {contadorAdulto}");
+        Console.WriteLine($"Adultos mayores: {contadorAdultoMayor}");
+
+        // Mostrar las personas por clasificación
+        Console.WriteLine("\nDetalles de personas por clasificación:");
+
+        if (contadorBebe > 0)
+        {
+            Console.WriteLine("\nBebés:");
+            foreach (var persona in personas)
+            {
+                if (ClasificarEdadPorGeneracion(persona.Edad) == "Bebé")
+                {
+                    Console.WriteLine($"{persona.Nombre} {persona.Apellido} - Edad: {persona.Edad}");
+                }
+            }
+        }
+
+        if (contadorNino > 0)
+        {
+            Console.WriteLine("\nNiños:");
+            foreach (var persona in personas)
+            {
+                if (ClasificarEdadPorGeneracion(persona.Edad) == "Niño")
+                {
+                    Console.WriteLine($"{persona.Nombre} {persona.Apellido} - Edad: {persona.Edad}");
+                }
+            }
+        }
+
+        if (contadorAdolescente > 0)
+        {
+            Console.WriteLine("\nAdolescentes:");
+            foreach (var persona in personas)
+            {
+                if (ClasificarEdadPorGeneracion(persona.Edad) == "Adolescente")
+                {
+                    Console.WriteLine($"{persona.Nombre} {persona.Apellido} - Edad: {persona.Edad}");
+                }
+            }
+        }
+
+        if (contadorAdulto > 0)
+        {
+            Console.WriteLine("\nAdultos:");
+            foreach (var persona in personas)
+            {
+                if (ClasificarEdadPorGeneracion(persona.Edad) == "Adulto")
+                {
+                    Console.WriteLine($"{persona.Nombre} {persona.Apellido} - Edad: {persona.Edad}");
+                }
+            }
+        }
+
+        if (contadorAdultoMayor > 0)
+        {
+            Console.WriteLine("\nAdultos mayores:");
+            foreach (var persona in personas)
+            {
+                if (ClasificarEdadPorGeneracion(persona.Edad) == "Adulto mayor")
+                {
+                    Console.WriteLine($"{persona.Nombre} {persona.Apellido} - Edad: {persona.Edad}");
+                }
+            }
+        }
+    }
+
+    static string ClasificarEdadPorGeneracion(int edad)
+    {
+        if (edad < 4) return "Bebé";
+        else if (edad < 13) return "Niño";
+        else if (edad < 18) return "Adolescente";
+        else if (edad < 60) return "Adulto";
+        else return "Adulto mayor";
     }
 }
 
