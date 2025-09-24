@@ -1,0 +1,8 @@
+C:\Users\sique\Documents\Proyecto POO Septiembre\biblioteca\biblioteca\biblioteca\bin\Debug\biblioteca.exe.config
+C:\Users\sique\Documents\Proyecto POO Septiembre\biblioteca\biblioteca\biblioteca\bin\Debug\biblioteca.exe
+C:\Users\sique\Documents\Proyecto POO Septiembre\biblioteca\biblioteca\biblioteca\bin\Debug\biblioteca.pdb
+C:\Users\sique\Documents\Proyecto POO Septiembre\biblioteca\biblioteca\biblioteca\obj\Debug\biblioteca.csproj.AssemblyReference.cache
+C:\Users\sique\Documents\Proyecto POO Septiembre\biblioteca\biblioteca\biblioteca\obj\Debug\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\sique\Documents\Proyecto POO Septiembre\biblioteca\biblioteca\biblioteca\obj\Debug\biblioteca.exe
+C:\Users\sique\Documents\Proyecto POO Septiembre\biblioteca\biblioteca\biblioteca\obj\Debug\biblioteca.pdb
+C:\Users\sique\Documents\Proyecto POO Septiembre\biblioteca\biblioteca\biblioteca\obj\Debug\biblioteca.exe.config

@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|c:\\users\\sique\\documents\\proyecto poo septiembre\\biblioteca\\biblioteca\\biblioteca\\repositoriolibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\repositoriolibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|c:\\users\\sique\\documents\\proyecto poo septiembre\\biblioteca\\biblioteca\\biblioteca\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|c:\\users\\sique\\documents\\proyecto poo septiembre\\biblioteca\\biblioteca\\biblioteca\\repositoriocategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\repositoriocategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAE4AAE-E2EC-4FE3-92D2-1B0EC9C8D083}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositorioCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\RepositorioCategorias.cs",
+              "RelativeDocumentMoniker": "biblioteca\\RepositorioCategorias.cs",
+              "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\RepositorioCategorias.cs",
+              "RelativeToolTip": "biblioteca\\RepositorioCategorias.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:32:42.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Prestamos.cs",
+              "DocumentMoniker": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\Prestamos.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Prestamos.cs",
+              "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\Prestamos.cs",
+              "RelativeToolTip": "biblioteca\\Prestamos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:22:13.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\Cliente.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Cliente.cs",
+              "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\Cliente.cs",
+              "RelativeToolTip": "biblioteca\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:18:17.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editorial.cs",
+              "DocumentMoniker": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\Editorial.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Editorial.cs",
+              "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\Editorial.cs",
+              "RelativeToolTip": "biblioteca\\Editorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:11:26.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\Autor.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Autor.cs",
+              "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\Autor.cs",
+              "RelativeToolTip": "biblioteca\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:10:10.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\Program.cs",
+              "RelativeToolTip": "biblioteca\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:01:51.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "biblioteca\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\IRepositorio.cs",
+              "RelativeToolTip": "biblioteca\\IRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:36:53.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\Categoria.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Categoria.cs",
+              "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\Categoria.cs",
+              "RelativeToolTip": "biblioteca\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:09:25.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\Libro.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Libro.cs",
+              "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\Libro.cs",
+              "RelativeToolTip": "biblioteca\\Libro.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:06:23.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositorioLibros.cs",
+              "DocumentMoniker": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\RepositorioLibros.cs",
+              "RelativeDocumentMoniker": "biblioteca\\RepositorioLibros.cs",
+              "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\biblioteca\\biblioteca\\biblioteca\\RepositorioLibros.cs",
+              "RelativeToolTip": "biblioteca\\RepositorioLibros.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAHkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:32:13.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
