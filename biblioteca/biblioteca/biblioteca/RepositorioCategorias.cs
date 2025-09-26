@@ -14,7 +14,7 @@ namespace biblioteca
             LlenarCategorias();
             return _lista;
         }
-        
+       
         public static void LlenarCategorias()
         {
             Categoria cat = new Categoria
@@ -30,6 +30,12 @@ namespace biblioteca
                 Nombre = "Novela"
             };
             _lista.Add(cat);
+
+            cat = new Categoria
+            {
+                ID = 3,
+                Nombre = "Historia"
+            };
         }
     }
 }

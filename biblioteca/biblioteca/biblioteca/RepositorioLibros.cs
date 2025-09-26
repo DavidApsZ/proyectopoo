@@ -11,11 +11,11 @@ namespace biblioteca
         private static List<Libro> _lista = new List<Libro>();
         public static List<Libro> ObtenerLibros()
         {
-            List<Libro> _ListaLibros = new List<Libro>();
-            return _ListaLibros;
+            LlenarLibros();
+            return _lista;
 
         }
-        private static void llenarLibros()
+        public static void LlenarLibros()
         {
             Libro lib = new Libro
             {
@@ -78,7 +78,7 @@ namespace biblioteca
                 Autor = new Autor
                 {
                     ID = 4,
-                    Nombre = "María Gómez",
+                    Nombre = "Maria Gómez",
                 },
                 Categoria = new Categoria
                 {
@@ -126,6 +126,10 @@ namespace biblioteca
             _lista.Add(lib6);
         }
 
+        public static Libro ObtenerLibroPorID(int IdLibro)
+        {
+            return _lista.Find(libro => libro.ID == IdLibro);
+        }
 
     }
 
