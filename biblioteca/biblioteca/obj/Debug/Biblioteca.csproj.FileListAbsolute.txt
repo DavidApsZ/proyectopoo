@@ -1,0 +1,23 @@
+D:\UNIDEP\POO\Proyectos\biblioteca\app\Biblioteca\bin\Debug\Biblioteca.exe.config
+D:\UNIDEP\POO\Proyectos\biblioteca\app\Biblioteca\bin\Debug\Biblioteca.exe
+D:\UNIDEP\POO\Proyectos\biblioteca\app\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\UNIDEP\POO\Proyectos\biblioteca\app\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+D:\UNIDEP\POO\Proyectos\biblioteca\app\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\UNIDEP\POO\Proyectos\biblioteca\app\Biblioteca\obj\Debug\Biblioteca.exe
+D:\UNIDEP\POO\Proyectos\biblioteca\app\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\DaniD\Downloads\UNIDEP\Programación Orientada a Objetos\POO de Pedro Lunes 6 OCT\Proyectos\biblioteca\app\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\DaniD\Downloads\UNIDEP\Programación Orientada a Objetos\POO de Pedro Lunes 6 OCT\Proyectos\biblioteca\app\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\DaniD\Downloads\UNIDEP\Programación Orientada a Objetos\POO de Pedro Lunes 6 OCT\Proyectos\biblioteca\app\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\DaniD\Downloads\UNIDEP\Programación Orientada a Objetos\POO de Pedro Lunes 6 OCT\Proyectos\biblioteca\app\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\DaniD\Downloads\UNIDEP\Programación Orientada a Objetos\POO de Pedro Lunes 6 OCT\Proyectos\biblioteca\app\Biblioteca\obj\Debug\Biblioteca.exe.config
+C:\Users\DaniD\Downloads\UNIDEP\Programación Orientada a Objetos\POO de Pedro Lunes 6 OCT\Proyectos\biblioteca\app\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\DaniD\Downloads\UNIDEP\Programación Orientada a Objetos\POO de Pedro Lunes 6 OCT\Proyectos\biblioteca\app\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\DaniD\Downloads\UNIDEP\Programación Orientada a Objetos\POO de Pedro Lunes 6 OCT\Proyectos\biblioteca\app\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\DaniD\Downloads\POO DB\Proyectos\biblioteca\app\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\DaniD\Downloads\POO DB\Proyectos\biblioteca\app\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\DaniD\Downloads\POO DB\Proyectos\biblioteca\app\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\DaniD\Downloads\POO DB\Proyectos\biblioteca\app\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\DaniD\Downloads\POO DB\Proyectos\biblioteca\app\Biblioteca\obj\Debug\Biblioteca.exe.config
+C:\Users\DaniD\Downloads\POO DB\Proyectos\biblioteca\app\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\DaniD\Downloads\POO DB\Proyectos\biblioteca\app\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\DaniD\Downloads\POO DB\Proyectos\biblioteca\app\Biblioteca\obj\Debug\Biblioteca.pdb

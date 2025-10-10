@@ -1,0 +1,15 @@
+C:\Users\sique\Documents\Proyecto POO Septiembre\metodos ordenamiento\metodos ordenamiento\bin\Debug\net8.0\metodos ordenamiento.exe
+C:\Users\sique\Documents\Proyecto POO Septiembre\metodos ordenamiento\metodos ordenamiento\bin\Debug\net8.0\metodos ordenamiento.deps.json
+C:\Users\sique\Documents\Proyecto POO Septiembre\metodos ordenamiento\metodos ordenamiento\bin\Debug\net8.0\metodos ordenamiento.runtimeconfig.json
+C:\Users\sique\Documents\Proyecto POO Septiembre\metodos ordenamiento\metodos ordenamiento\bin\Debug\net8.0\metodos ordenamiento.dll
+C:\Users\sique\Documents\Proyecto POO Septiembre\metodos ordenamiento\metodos ordenamiento\bin\Debug\net8.0\metodos ordenamiento.pdb
+C:\Users\sique\Documents\Proyecto POO Septiembre\metodos ordenamiento\metodos ordenamiento\obj\Debug\net8.0\metodos ordenamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sique\Documents\Proyecto POO Septiembre\metodos ordenamiento\metodos ordenamiento\obj\Debug\net8.0\metodos ordenamiento.AssemblyInfoInputs.cache
+C:\Users\sique\Documents\Proyecto POO Septiembre\metodos ordenamiento\metodos ordenamiento\obj\Debug\net8.0\metodos ordenamiento.AssemblyInfo.cs
+C:\Users\sique\Documents\Proyecto POO Septiembre\metodos ordenamiento\metodos ordenamiento\obj\Debug\net8.0\metodos ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\sique\Documents\Proyecto POO Septiembre\metodos ordenamiento\metodos ordenamiento\obj\Debug\net8.0\metodos ordenamiento.sourcelink.json
+C:\Users\sique\Documents\Proyecto POO Septiembre\metodos ordenamiento\metodos ordenamiento\obj\Debug\net8.0\metodos ordenamiento.dll
+C:\Users\sique\Documents\Proyecto POO Septiembre\metodos ordenamiento\metodos ordenamiento\obj\Debug\net8.0\refint\metodos ordenamiento.dll
+C:\Users\sique\Documents\Proyecto POO Septiembre\metodos ordenamiento\metodos ordenamiento\obj\Debug\net8.0\metodos ordenamiento.pdb
+C:\Users\sique\Documents\Proyecto POO Septiembre\metodos ordenamiento\metodos ordenamiento\obj\Debug\net8.0\metodos ordenamiento.genruntimeconfig.cache
+C:\Users\sique\Documents\Proyecto POO Septiembre\metodos ordenamiento\metodos ordenamiento\obj\Debug\net8.0\ref\metodos ordenamiento.dll

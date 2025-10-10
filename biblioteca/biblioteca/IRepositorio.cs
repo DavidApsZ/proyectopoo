@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Biblioteca
+{
+    internal interface IRepositorio
+    {
+        List<object> ObtenerDatos();
+        List<object> CargarDatos();
+    }
+}

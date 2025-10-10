@@ -30,7 +30,8 @@
               "RelativeToolTip": "menu codigos\\menu codigos.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-22T15:03:18.603Z"
+              "WhenOpened": "2025-09-22T15:03:18.603Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,7 +41,7 @@
               "RelativeDocumentMoniker": "menu codigos\\Program.cs",
               "ToolTip": "C:\\Users\\sique\\Documents\\Proyecto POO Septiembre\\menu codigos\\menu codigos\\Program.cs",
               "RelativeToolTip": "menu codigos\\Program.cs",
-              "ViewState": "AgIAAFQBAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T14:56:18.775Z",
               "EditorCaption": ""
